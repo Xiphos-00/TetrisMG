@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/john/Documents/Visual Studio 2017/Projects/Tetris_Preempt/Tetris_Preempt/Content/School of Athens (Raphael).jpg</File>
+    <File>C:/Users/john/Documents/Visual Studio 2017/Projects/Tetris_Preempt/Tetris_Preempt/Content/man.png</File>
+    <File>C:/Users/john/Documents/Visual Studio 2017/Projects/Tetris_Preempt/Tetris_Preempt/Content/profile.png</File>
+    <File>C:/Users/john/Documents/Visual Studio 2017/Projects/Tetris_Preempt/Tetris_Preempt/Content/Snoo T-Pose.png</File>
+  </SourceFiles>
+</SourceFileCollection>
